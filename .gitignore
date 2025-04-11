@@ -30,6 +30,4 @@ __pycache__/
 
 # Archivos CSV generados automáticamente (opcional)
 # data_base/*.csv
-✅ Si quieres incluir tus CSV, deja descomentada la línea data_base/*.csv.
-❌ Si los quieres ignorar y no subir al repositorio, solo quita el #.
 
