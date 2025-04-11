@@ -1,0 +1,35 @@
+# Archivos del sistema de macOS
+.DS_Store
+
+# Entorno virtual
+venv/
+.env/
+.venv/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos Python temporales
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de log
+*.log
+
+# Archivos de bases de datos temporales
+*.sqlite3
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+*.swp
+*~
+
+# Archivos CSV generados automáticamente (opcional)
+# data_base/*.csv
+✅ Si quieres incluir tus CSV, deja descomentada la línea data_base/*.csv.
+❌ Si los quieres ignorar y no subir al repositorio, solo quita el #.
+
