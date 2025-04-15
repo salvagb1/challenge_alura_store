@@ -57,7 +57,8 @@ Incluye imágenes de los gráficos y mapas generados en el informe final.
 
 ## 🙌 Autor
 
-**Salvador GB** – *Proyecto realizado como parte de la especialización de Data Science de Alura*  
+**Salvador GB** – *Proyecto realizado como parte de la especialización de Data Science de Alura*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salvadorgonzales/)  
 
 ---
